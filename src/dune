@@ -1,0 +1,5 @@
+(library
+ (name ppx_inline_module)
+ (public_name ppx_inline_module)
+ (kind ppx_rewriter)
+ (libraries ppxlib))
